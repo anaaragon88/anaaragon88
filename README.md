@@ -3,9 +3,10 @@
 - 🌱 I’m learning full stack web development. 
 - 👩🏻‍💻 I have a background of 10 years as graphic designer
 
-📫 Connect with me: ana.aragon88@gmail.com
-    https://www.linkedin.com/in/anaaragonvazquez/
-    https://www.behance.net/anaaragon
+📫 Connect with me: 
+- ana.aragon88@gmail.com
+- https://www.linkedin.com/in/anaaragonvazquez/
+- https://www.behance.net/anaaragon
 
 Languages and Tools:
 

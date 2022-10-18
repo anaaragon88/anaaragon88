@@ -11,13 +11,15 @@
 Languages and Tools:
 
 Full Stack Web Development
-- HTML | CSS | Bootstrap | Javascript | React | Node.js | Sass
+- HTML | CSS | Bootstrap | Sass | Github
+- Javascript | React | Node.js 
 - Python / Django | PHP / Symfony
 - XAMPP / PHPMyAdmin | MongoDB | Mysql
 - Visual Studio Code | Pycharm
 
-Graphic Design / Agile Methodologies
+UX|UI / Agile Methodologies / Graphic Design 
 
-- Figma | Github | Scrum | Trello | Jira | Notion
+- Figma | Design Thinking | Miro | Notion
+- Scrum | Trello | Jira
 - Suite Adobe | Microsoft Office | Manage Social Media
 

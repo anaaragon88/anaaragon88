@@ -8,6 +8,9 @@
 - https://www.linkedin.com/in/anaaragonvazquez/
 - https://www.behance.net/anaaragon
 
+⭐ Badges at Codecademy:
+- https://www.codecademy.com/users/anaaragon/achievements
+
 Languages and Tools:
 
 Full Stack Web Development

@@ -14,7 +14,7 @@
 Languages and Tools:
 
 Full Stack Web Development
-- HTML | CSS | Bootstrap | Sass | Github
+- HTML | CSS | Bootstrap | Github
 - Javascript | React | Node.js 
 - Python / Django | PHP / Symfony
 - XAMPP / PHPMyAdmin | MongoDB | Mysql

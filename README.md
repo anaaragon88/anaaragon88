@@ -1,6 +1,6 @@
 ### I am Ana Aragon!!
 
-- 🌱 I’m learning full stack web development. 
+- 🌱 I am a full stack web developer. 
 - 👩🏻‍💻 I have a background of 10 years as graphic designer
 
 📫 Connect with me: 

@@ -8,9 +8,6 @@
 - https://www.linkedin.com/in/anaaragonvazquez/
 - https://www.behance.net/anaaragon
 
-⭐ Badges at Codecademy:
-- https://www.codecademy.com/users/anaaragon/achievements
-
 Languages and Tools:
 
  ## Languages and Tools 🛠️
@@ -35,4 +32,9 @@ UX|UI / Agile Methodologies / Graphic Design
 - Figma | Design Thinking | Miro | Notion
 - Scrum | Trello | Jira
 - Suite Adobe | Microsoft Office | Manage Social Media
+
+
+⭐ Badges at Codecademy:
+- https://www.codecademy.com/users/anaaragon/achievements
+
 

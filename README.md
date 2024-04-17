@@ -34,7 +34,21 @@ UX|UI / Agile Methodologies / Graphic Design
 - Suite Adobe | Microsoft Office | Manage Social Media
 
 
-⭐ Badges at Codecademy:
-- https://www.codecademy.com/users/anaaragon/achievements
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=anaaragon88&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Ana's Stats">
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaaragon88&theme=tokyonight&hide_border=true&currStreakNum=1&currStreakLabel=Current%20streak" alt="Ana's Streak">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 

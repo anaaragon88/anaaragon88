@@ -1,4 +1,4 @@
-# I am Ana Aragon!!
+### I am Ana Aragon!!
 
 - 🌱 I am a full stack web developer. 
 - 👩🏻‍💻 I have a background of 10 years as graphic designer!

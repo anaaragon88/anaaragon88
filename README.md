@@ -1,12 +1,15 @@
 ### I am Ana Aragon!!
 
-- 🌱 I am a full stack web developer. 
+- 🌱 I am a full stack web developer.
 - 👩🏻‍💻 I have a background of 10 years as graphic designer!
 
 📫 Connect with me: 
 - ana.aragon88@gmail.com
-- https://www.linkedin.com/in/anaaragonvazquez/
+  
+  [![Linkedin: anaaragon](https://img.shields.io/badge/-anaaragon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaaragonvazquez/)](https://www.linkedin.com/in/anaaragonvazquez/)
 - https://www.behance.net/anaaragon
+
+  ![Views counter](https://komarev.com/ghpvc/?username=anaaragon88&color=ff69b4&style=flat-square&abbreviated=true)
 
 Languages and Tools:
 

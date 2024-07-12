@@ -6,8 +6,6 @@
 📫 Connect with me: 
 - ana.aragon88@gmail.com
 - https://www.linkedin.com/in/anaaragonvazquez/
- [![Linkedin: amargopastor](https://img.shields.io/badge/-anaaragon-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaaragonvazquez/)](https://www.linkedin.com/in/anaaragonvazquez/)
-
 - https://www.behance.net/anaaragon
 
 Languages and Tools:

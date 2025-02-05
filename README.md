@@ -4,7 +4,8 @@
 - 👩🏻‍💻 I have a background of 10 years as graphic designer!
 
 📫 Connect with me: 
-- ana.aragon88@gmail.com
+- [![Gmail Badge](https://img.shields.io/badge/-ana.aragon88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ana.aragon88@gmail.com)](mailto:ana.aragon88@gmail.com)
+
   
   [![Linkedin: anaaragon](https://img.shields.io/badge/-anaaragon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaaragonvazquez/)](https://www.linkedin.com/in/anaaragonvazquez/)
 - https://www.behance.net/anaaragon

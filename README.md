@@ -4,10 +4,9 @@
 - 👩🏻‍💻 I have a background of 10 years as graphic designer!
 
 📫 Connect with me: 
-- [![Gmail Badge](https://img.shields.io/badge/-ana.aragon88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ana.aragon88@gmail.com)](mailto:ana.aragon88@gmail.com)
-
+- ana.aragon88@gmail.com
   
-- [![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaaragonvazquez/)](https://www.linkedin.com/in/anaaragonvazquez/)
+- [![Linkedin: Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anaaragonvazquez/)](https://www.linkedin.com/in/anaaragonvazquez/)
 - https://www.behance.net/anaaragon
 
   ![Views counter](https://komarev.com/ghpvc/?username=anaaragon88&color=ff69b4&style=flat-square&abbreviated=true)

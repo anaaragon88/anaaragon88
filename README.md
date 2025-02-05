@@ -7,7 +7,7 @@
 - [![Gmail Badge](https://img.shields.io/badge/-ana.aragon88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ana.aragon88@gmail.com)](mailto:ana.aragon88@gmail.com)
 
   
-  [![Linkedin: anaaragon](https://img.shields.io/badge/-anaaragon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaaragonvazquez/)](https://www.linkedin.com/in/anaaragonvazquez/)
+- [![Linkedin: Linkedin](https://img.shields.io/badge/-anaaragon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaaragonvazquez/)](https://www.linkedin.com/in/anaaragonvazquez/)
 - https://www.behance.net/anaaragon
 
   ![Views counter](https://komarev.com/ghpvc/?username=anaaragon88&color=ff69b4&style=flat-square&abbreviated=true)

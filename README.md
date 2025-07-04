@@ -5,6 +5,7 @@
 
 📫 Connect with me: 
 - ana.aragon88@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/-ana.aragon88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ana.aragon88@gmail.com)](mailto:ana.aragon88@gmail.com)
   
 - [![Linkedin: Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anaaragonvazquez/)](https://www.linkedin.com/in/anaaragonvazquez/)
 - https://www.behance.net/anaaragon

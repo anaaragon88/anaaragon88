@@ -29,7 +29,7 @@ Languages and Tools:
  ![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
-
+https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 
 UX|UI / Agile Methodologies / Graphic Design 
 

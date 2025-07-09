@@ -5,10 +5,6 @@
 
 📫 Connect with me: 
 - ana.aragon88@gmail.com
-[![Gmail Badge](https://img.shields.io/badge/-ana.aragon88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ana.aragon88@gmail.com)](mailto:ana.aragon88@gmail.com)
-
-
-[![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
   
 - [![Linkedin: Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anaaragonvazquez/)](https://www.linkedin.com/in/anaaragonvazquez/)
 - https://www.behance.net/anaaragon
@@ -32,7 +28,7 @@ Languages and Tools:
  ![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
-https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+[![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 UX|UI / Agile Methodologies / Graphic Design 
 

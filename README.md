@@ -9,8 +9,6 @@
 - [![Linkedin: Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anaaragonvazquez/)](https://www.linkedin.com/in/anaaragonvazquez/)
 - https://www.behance.net/anaaragon
 
-  ![Views counter](https://komarev.com/ghpvc/?username=anaaragon88&color=ff69b4&style=flat-square&abbreviated=true)
-
 Languages and Tools:
 
  ## Languages and Tools 🛠️
@@ -37,7 +35,7 @@ UX|UI / Agile Methodologies / Graphic Design
 - Suite Adobe | Microsoft Office | Manage Social Media
 
 
-<div align="center">
+<!--div align="center">
   <table>
     <tr>
       <td>
@@ -52,6 +50,8 @@ UX|UI / Agile Methodologies / Graphic Design
       </td>
     </tr>
   </table>
-</div>
+</div-->
 
-
+![GitHub followers](https://img.shields.io/github/followers/anaaragon88?style=flat&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/anaaragon88?style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=anaaragon88&style=flat)

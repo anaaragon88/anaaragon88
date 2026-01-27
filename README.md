@@ -35,22 +35,13 @@ UX|UI / Agile Methodologies / Graphic Design
 - Suite Adobe | Microsoft Office | Manage Social Media
 
 
-<!--div align="center">
-  <table>
-    <tr>
-      <td>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=anaaragon88&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Ana's Stats">
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaaragon88&theme=tokyonight&hide_border=true&currStreakNum=1&currStreakLabel=Current%20streak" alt="Ana's Streak">
-        </div>
-      </td>
-    </tr>
-  </table>
-</div-->
+## 📊 GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaaragon88&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anaaragon88&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anaaragon88&theme=tokyonight)>
+</div>
 
 ![GitHub followers](https://img.shields.io/github/followers/anaaragon88?style=flat&logo=github)
 ![GitHub stars](https://img.shields.io/github/stars/anaaragon88?style=flat)
